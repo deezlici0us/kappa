@@ -1,2 +1,2 @@
 # kappa
-my first repository
+SORRYZ
